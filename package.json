@@ -4,7 +4,7 @@
   "description": "With great power comes great responsibility",
   "main": "index.js",
   "scripts": {
-    "postinstall": ".bin/nagibabel.js"
+    "postinstall": "./bin/nagibabel.js"
   },
   "author": "Alex Shoronov <alexshoronov@gmail.com>",
   "license": "MIT",
